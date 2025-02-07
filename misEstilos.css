@@ -1,0 +1,30 @@
+.central-texto{
+    text-align: center;
+}
+.foto{
+    border: 3 px;
+    border-style: solid;
+    border-color: beige;
+    padding: 5px;
+
+}
+#subtitulo{
+    text-decoration: underline;
+}
+#subtitulo::first-letter {
+    font-size: x-large;
+    font-style: italic;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+
+
